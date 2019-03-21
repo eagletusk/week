@@ -4,7 +4,12 @@
   font-size: 300px;
 }
 
-@media screen and (max-width: 768px) {
+/* h1 {
+  font-weight: bold;
+  color: blue;
+} */
+
+/* @media screen and (max-width: 768px) {
   body {
     background-color: black;
     color: white;
@@ -25,4 +30,4 @@
     background-color: pink;
     color: white;
   }
-}
+} */
